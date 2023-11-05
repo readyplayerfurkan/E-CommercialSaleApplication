@@ -1,0 +1,14 @@
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\bin\Debug\net7.0\E-CommercialSaleApplication.exe
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\bin\Debug\net7.0\E-CommercialSaleApplication.deps.json
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\bin\Debug\net7.0\E-CommercialSaleApplication.runtimeconfig.json
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\bin\Debug\net7.0\E-CommercialSaleApplication.dll
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\bin\Debug\net7.0\E-CommercialSaleApplication.pdb
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\E-CommercialSaleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\E-CommercialSaleApplication.AssemblyInfoInputs.cache
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\E-CommercialSaleApplication.AssemblyInfo.cs
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\E-CommercialSaleApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\E-CommercialSaleApplication.dll
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\refint\E-CommercialSaleApplication.dll
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\E-CommercialSaleApplication.pdb
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\E-CommercialSaleApplication.genruntimeconfig.cache
+C:\Users\user\E-CommercialSaleApplication\E-CommercialSaleApplication\E-CommercialSaleApplication\obj\Debug\net7.0\ref\E-CommercialSaleApplication.dll

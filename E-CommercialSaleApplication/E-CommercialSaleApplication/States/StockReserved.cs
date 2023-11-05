@@ -20,7 +20,7 @@ public class StockReserved : SaleState
 
     public override void PayForAllProducts(int customerBalance)
     {
-        if (customerBalance > (_context.ProductAmount * _context.ProductPrice))
+        if (customerBalance >= (_context.ProductAmount * _context.ProductPrice))
         {
             Console.WriteLine("Ödeme başaralı bir şekilde gerçekleşmiştir.");
             _context.SetOrderCompleted();

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-CommercialSaleApplication", "E-CommercialSaleApplication\E-CommercialSaleApplication.csproj", "{DB27EE26-7000-400F-A38C-21EF3ACF11AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB27EE26-7000-400F-A38C-21EF3ACF11AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB27EE26-7000-400F-A38C-21EF3ACF11AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB27EE26-7000-400F-A38C-21EF3ACF11AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB27EE26-7000-400F-A38C-21EF3ACF11AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
